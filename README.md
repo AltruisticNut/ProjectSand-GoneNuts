@@ -3,7 +3,7 @@
 AltruisticNut's Notes
 ---------------------
 
-Hey, this is a fork of Josh Don's "Project Sand" but I added a lot of random things, including:
+Hey, this is a mod of Josh Don's "Project Sand" but I added a lot of random things, including:
 
 + Vanilla elements only accessible by interactions between two unique elements are now placeable.
 + Several elements I created myself, which are:
@@ -19,6 +19,8 @@ Hey, this is a fork of Josh Don's "Project Sand" but I added a lot of random thi
   + ... and more along the way!
 + Several UI changes and keybinds for some of the functions.
 + Customizable modifiers that completely change the way the canvas handles certain elements.
+
+As of November 2024, this mod is no longer a fork of the original game. This is so it's easier for me to make PRs to the main repository if I want to, as well as implement more experimental things into my mod. That being said, I own nothing of the original Project Sand code found here, and this is purely a hobby project.
 
 *IMPORTANT NOTE: This version can get a bit laggier than the original, due to the canvas size increase, more chaotic elements/features, and admittedly my own code quality not up to snuff with Josh Don.*
 
